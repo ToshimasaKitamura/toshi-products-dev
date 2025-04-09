@@ -1,5 +1,8 @@
-# Vue 3 + TypeScript + Vite
+## タイトル
+BehaviorTree
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 概要
+専門学校の卒業制作で作った3Dシューティングゲームの味方AIのソースコードです。BehaviorTreeという手法で作成しました。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 制作日
+2023/02
